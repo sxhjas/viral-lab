@@ -66,7 +66,7 @@ input: a product name / link
 ## Quickstart
 
 ```bash
-git clone https://github.com/<you>/viral-lab.git
+git clone https://github.com/sxhjas/viral-lab.git
 ```
 
 **As a Claude Code plugin** — point Claude Code at the repo, or copy `skills/` into your project's `.claude/skills/`. Then:

@@ -46,7 +46,7 @@ Production OS 内容生产
 ## 快速开始
 
 ```bash
-git clone https://github.com/<you>/viral-lab.git
+git clone https://github.com/sxhjas/viral-lab.git
 ```
 
 作为 Claude Code plugin 加载，或把 `skills/` 拷进项目的 `.claude/skills/`。然后：
