@@ -1,0 +1,12 @@
+{
+  "name": "viral-lab",
+  "version": "1.0.0",
+  "description": "AI-native TikTok content growth operating system: Brand OS (audience insight from full-coverage VOC) → Research OS (viral video reverse-engineering) → Production OS (shoot-ready content packs). Human sets standards, AI executes everything.",
+  "author": {
+    "name": "Jasmine",
+    "url": "https://xhslink.com/m/Akk9B3i582e"
+  },
+  "homepage": "https://github.com/jasmine/viral-lab",
+  "license": "MIT",
+  "keywords": ["tiktok", "growth", "voc", "content-marketing", "ai-agent", "claude-code", "skills"]
+}

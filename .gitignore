@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+*.log
+# 真实项目工作区不入库（本仓库只含系统本体与虚构示例）
+products/
+brands/
+projects/
